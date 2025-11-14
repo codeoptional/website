@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Optional</title>
+    <link>https://codeoptional.dzombak.com</link>
+    <description>Three engineering comrades – Andrew Sardone, Kevin Vitale, and Chris Dzombak – talk about development, design, and shipping apps. There's a heavy slant towards Apple tech, balanced with general inquiries around programming and the intricacies/inanities of software.</description>
+    <language>en-us</language>
+    <copyright>Code Optional</copyright>
+    <atom:link href="https://codeoptional.dzombak.com/feed.xml" rel="self" type="application/rss+xml" />
+
+    <itunes:author>Andrew Sardone, Kevin Vitale, Chris Dzombak</itunes:author>
+    <itunes:summary>Three engineering comrades – Andrew Sardone, Kevin Vitale, and Chris Dzombak – talk about development, design, and shipping apps. There's a heavy slant towards Apple tech, balanced with general inquiries around programming and the intricacies/inanities of software.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Chris Dzombak</itunes:name>
+      <itunes:email>chris@dzombak.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://codeoptional.dzombak.com/about.jpeg" />
+
+    <item>
+      <title>7: Our first ever guest, designing remotely</title>
+      <link>https://codeoptional.dzombak.com/episode-7.html</link>
+      <description>While Kevin takes the afternoon off for some well-deserved family and petting zoo time, we're joined by our guest Karsten Rowe. Karsten is a UK-based designer, and together with Andrew and Chris he chats about remote work, jumping from graphic to product design, and how one grows and becomes inspired.</description>
+      <guid isPermaLink="false">codeoptional-007</guid>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 -0400</pubDate>
+      <enclosure url="https://dropbox.dzombak.com/cloud/code-optional/codeoptional007.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>Andrew Sardone, Kevin Vitale, Chris Dzombak</itunes:author>
+      <itunes:summary>While Kevin takes the afternoon off for some well-deserved family and petting zoo time, we're joined by our guest Karsten Rowe. Karsten is a UK-based designer, and together with Andrew and Chris he chats about remote work, jumping from graphic to product design, and how one grows and becomes inspired.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+    </item>
+
+    <item>
+      <title>6: Unfulfilled Promises</title>
+      <link>https://codeoptional.dzombak.com/episode-6.html</link>
+      <description>Chris has an announcement, followed by a quick discussion about OS X Yosemite and iOS 8. From there, Andrew, Chris, and Kevin go back and forth on Promises and why they're an insufficient abstraction.</description>
+      <guid isPermaLink="false">codeoptional-006</guid>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 -0400</pubDate>
+      <enclosure url="https://dropbox.dzombak.com/cloud/code-optional/codeoptional006.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>Andrew Sardone, Kevin Vitale, Chris Dzombak</itunes:author>
+      <itunes:summary>Chris has an announcement, followed by a quick discussion about OS X Yosemite and iOS 8. From there, Andrew, Chris, and Kevin go back and forth on Promises and why they're an insufficient abstraction.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+    </item>
+
+    <item>
+      <title>4: We did talk about Core Data!</title>
+      <link>https://codeoptional.dzombak.com/episode-4.html</link>
+      <description>On this episode, Kevin throws in a big announcement, followed by a group discussion on Swift's nil coalescing operator and the common applications of Core Data.</description>
+      <guid isPermaLink="false">codeoptional-004</guid>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 -0400</pubDate>
+      <enclosure url="https://dropbox.dzombak.com/cloud/code-optional/codeoptional004.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>Andrew Sardone, Kevin Vitale, Chris Dzombak</itunes:author>
+      <itunes:summary>On this episode, Kevin throws in a big announcement, followed by a group discussion on Swift's nil coalescing operator and the common applications of Core Data.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+    </item>
+
+    <item>
+      <title>3: So we didn't talk about Core Data</title>
+      <link>https://codeoptional.dzombak.com/episode-3.html</link>
+      <description>Andrew, Kevin, and Chris plan to talk about Core Data. Instead, they discuss navigation patterns for iOS apps.</description>
+      <guid isPermaLink="false">codeoptional-003</guid>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 -0400</pubDate>
+      <enclosure url="https://dropbox.dzombak.com/cloud/code-optional/codeoptional003.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>Andrew Sardone, Kevin Vitale, Chris Dzombak</itunes:author>
+      <itunes:summary>Andrew, Kevin, and Chris plan to talk about Core Data. Instead, they discuss navigation patterns for iOS apps.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
+
+    <item>
+      <title>2: Frameworks, you guys don't even know how many sunshine and rainbows</title>
+      <link>https://codeoptional.dzombak.com/episode-2.html</link>
+      <description>Andrew, Chris, and Kevin sit down for a chat on "Google becoming Apple" (or so Kevin says), and how dynamic frameworks for third party developers will replace CocoaPods (or so Kevin says).</description>
+      <guid isPermaLink="false">codeoptional-002</guid>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 -0400</pubDate>
+      <enclosure url="https://dropbox.dzombak.com/cloud/code-optional/codeoptional002.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>Andrew Sardone, Kevin Vitale, Chris Dzombak</itunes:author>
+      <itunes:summary>Andrew, Chris, and Kevin sit down for a chat on "Google becoming Apple" (or so Kevin says), and how dynamic frameworks for third party developers will replace CocoaPods (or so Kevin says).</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+    <item>
+      <title>1: We started this new project in Swift</title>
+      <link>https://codeoptional.dzombak.com/episode-1.html</link>
+      <description>Andrew, Chris, and Kevin sit down for their inaugural chat, scratching the surface of Swift.</description>
+      <guid isPermaLink="false">codeoptional-001</guid>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 -0400</pubDate>
+      <enclosure url="https://dropbox.dzombak.com/cloud/code-optional/codeoptional001.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>Andrew Sardone, Kevin Vitale, Chris Dzombak</itunes:author>
+      <itunes:summary>Andrew, Chris, and Kevin sit down for their inaugural chat, scratching the surface of Swift.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+
+  </channel>
+</rss>
